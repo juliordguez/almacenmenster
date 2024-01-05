@@ -1,2 +1,0 @@
-# almacenmenster
-Almacen de refacciones 
